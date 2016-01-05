@@ -771,7 +771,7 @@ def gen_sample(tparams, f_init, f_next, ctx0, options,
     sampling.
 
     Parameters
-    ----------
+    -sl---------
     tparams : OrderedDict()
         dictionary of theano shared variables represented weight
         matricies
